@@ -39,3 +39,7 @@
 
 *.tlog
 *.ipch
+*.idb
+*.pdb
+*.log
+*.swp
